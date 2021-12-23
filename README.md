@@ -19,13 +19,19 @@ Here is a list of all of my projects live online and production statuses.
 **Owner**: <a href="https://top.gg/bot/909581444110753844">
   <img src="https://top.gg/api/widget/owner/909581444110753844.svg">
 </a>
+
 **Update**: Beta 1.2.12
+
 **Production Status**: 🟢
 
+-
+
 **Online Status**: 
+
 **Server Count**: <a href="https://top.gg/bot/909581444110753844">
   <img src="https://top.gg/api/widget/servers/909581444110753844.svg">
 </a>
+
 **Project Upvotes**: <a href="https://top.gg/bot/909581444110753844">
   <img src="https://top.gg/api/widget/upvotes/909581444110753844.svg">
 </a>
