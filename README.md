@@ -35,4 +35,20 @@ Here is a list of all of my projects live online and production statuses.
 
 ### Wynn
 
-*Coming Soon!*
+**Owner**: <a href="https://top.gg/bot/917994932050985031">
+  <img src="https://top.gg/api/widget/owner/917994932050985031.svg">
+</a>
+
+**Server Count**: <a href="https://top.gg/bot/917994932050985031">
+  <img src="https://top.gg/api/widget/servers/917994932050985031.svg">
+</a> 
+
+**Update**: Beta 1.2.12
+
+**Production Status**: 🟢
+
+**Online Status**: 
+
+**Project Upvotes**:
+
+<a href="https://top.gg/bot/917994932050985031"> <img src="https://top.gg/api/widget/917994932050985031.svg"></a> <a href="https://discordbotlist.com/bots/917994932050985031"><img src="https://discordbotlist.com/api/v1/bots/917994932050985031/widget"></a>
