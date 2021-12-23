@@ -7,7 +7,7 @@ These are all of my projects and project information. This also includes project
 
 Here is a list of all of my projects live online and production statuses.
 
-- [Production Status Types]()
+- [Production Status Types](https://github.com/CVXSL/Projects/blob/main/INFORMATION.md#production-status-types)
 
 ---
 
