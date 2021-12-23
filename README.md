@@ -9,6 +9,8 @@ Here is a list of all of my projects live online and production statuses.
 
 - [Production Status Types]()
 
+---
+
 ### Dynella 
 
 **Owner**: <a href="https://top.gg/bot/909581444110753844">
@@ -28,6 +30,8 @@ Here is a list of all of my projects live online and production statuses.
 **Production Status**: 🟢
 
 **Online Status**: 
+
+---
 
 ### Wynn
 
