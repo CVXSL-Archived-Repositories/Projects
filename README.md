@@ -23,9 +23,9 @@ Here is a list of all of my projects live online and production statuses.
 
 **Update**: Beta 1.2.12
 
-**Production Status**: 🟢
+**[Production Status](https://github.com/CVXSL/Projects/blob/main/INFORMATION.md#production-status-types)**: 🟢
 
-**Online Status**: 
+**Online Status**: Online
 
 **Project Upvotes**:
 
@@ -43,11 +43,11 @@ Here is a list of all of my projects live online and production statuses.
   <img src="https://top.gg/api/widget/servers/917994932050985031.svg">
 </a> 
 
-**Update**: Beta 1.2.12
+**Update**: Beta 1.0.23
 
-**Production Status**: 🟢
+**[Production Status](https://github.com/CVXSL/Projects/blob/main/INFORMATION.md#production-status-types)**: 🟡
 
-**Online Status**: 
+**Online Status**: Offline
 
 **Project Upvotes**:
 
