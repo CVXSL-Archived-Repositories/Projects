@@ -27,7 +27,7 @@ These are all of my Discord Bot projects that I have made public.
 
 **Update**: Beta 2.0.0
 
-**[Production Status](https://github.com/CVXSL/Projects/blob/main/INFORMATION.md#production-status-types)**: 🔵
+**[Production Status](https://github.com/CVXSL/Projects/blob/main/INFORMATION.md#production-status-types)**: 🟢
 
 **Online Status**: Online
 
