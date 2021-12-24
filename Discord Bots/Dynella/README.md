@@ -6,7 +6,7 @@ Here is a few bits of information for Dynella.
 
 **Dec 23, 2021**: Beta 2.0.0
 - Replaced the `-` prefix with `/` (slash commands).
-- Removed `/commands` (reason: when you type `/`, it shows the commands when you select Dynella.
+- Removed `/commands`.
 - Temporarily Removed the `/character` command.
 
 ---
