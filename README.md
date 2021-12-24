@@ -11,6 +11,10 @@ Here is a list of all of my projects live online and production statuses.
 
 ---
 
+## Discord Bots
+
+These are all of my Discord Bot projects that I have made public.
+
 ### Dynella 
 
 **Owner**: <a href="https://top.gg/bot/909581444110753844">
@@ -21,9 +25,9 @@ Here is a list of all of my projects live online and production statuses.
   <img src="https://top.gg/api/widget/servers/909581444110753844.svg">
 </a> 
 
-**Update**: Beta 1.2.12
+**Update**: Beta 2.0.0
 
-**[Production Status](https://github.com/CVXSL/Projects/blob/main/INFORMATION.md#production-status-types)**: 🟢
+**[Production Status](https://github.com/CVXSL/Projects/blob/main/INFORMATION.md#production-status-types)**: 🔵
 
 **Online Status**: Online
 
