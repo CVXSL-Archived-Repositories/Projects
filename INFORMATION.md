@@ -10,4 +10,4 @@ This is random scattered information that I felt I needed to address, but just n
 🟢 = Current Main Project
 
 #### This information is used here:
-- [README](https://github.com/CVXSL/Projects/blob/main/README.md#project-information)
+- [README.md](https://github.com/CVXSL/Projects/blob/main/README.md#project-information)
